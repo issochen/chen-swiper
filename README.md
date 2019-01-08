@@ -6,4 +6,4 @@
     目前参数 autoplay 自动轮播  delay  轮播间歇时间  pagination 是否显示 分页圆点  navigator 是否显示 左右前后退按钮
 ```
 ## 效果
-![image]()
+![image](https://github.com/issochen/chen-swiper/blob/master/xiaoguo.gif)
